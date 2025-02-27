@@ -1,1 +1,1 @@
-# This is our code for “MPUNet: Model Priors-guided Unsupervised Fusion Network for Partially Aligned Hyperspectral and Multispectral Images”; a detailed and refined version of the code will be released after acceptance of the paper.
+This is our code for “MPUNet: Model Priors-guided Unsupervised Fusion Network for Partially Aligned Hyperspectral and Multispectral Images”; a detailed and refined version of the code will be released after acceptance of the paper.
